@@ -11,6 +11,7 @@
 **3. Run Commands in Terminal**
 
 ```
+cd Desktop/PA-FinalProject-main
 python -m venv myenv
 source myenv/bin/activate
 pip install --upgrade pip
