@@ -1,14 +1,14 @@
 # PA Group 1 - Final Project
 
-***Predicting Airbnb Prices Across Major European Cities***
+**Predicting Airbnb Prices Across Major European Cities**
 
 ## Setup Steps
 
-**1. Download Repository:** as a .zip file
+***1. Download ZIP:*** download our PA-FinalProject-main repository as a ZIP file
 
-**2. Open IPYNB File:** open "Group1_Analysis.ipynb" in your code editor of choice
+***2. Open IPYNB File:*** open "Group1_Analysis.ipynb" in your code editor of choice
 
-**3. Run Commands in Terminal**
+***3. Run Commands in Terminal***
 
 ```
 cd Desktop/PA-FinalProject-main
