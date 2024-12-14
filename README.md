@@ -2,9 +2,9 @@
 
 **Predicting Airbnb Prices Across Major European Cities**
 
-## Setup Steps
+## Analysis Setup Steps
 
-***1. Download ZIP:*** download our PA-FinalProject-main repository as a ZIP file
+***1. Download ZIP:*** download our "PA-FinalProject-main" repository as a ZIP file
 
 ***2. Open IPYNB File:*** open "Group1_Analysis.ipynb" in your code editor of choice
 
@@ -18,6 +18,8 @@ pip install --upgrade pip
 pip install notebook
 pip install -r requirements.txt
 ```
+
+***4. Read Paper:*** open "Group1_Paper.pdf" to access our final paper based on the above analysis notebook.
 
 ## Team Members
 
