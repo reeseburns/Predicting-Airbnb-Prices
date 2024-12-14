@@ -18,3 +18,11 @@ pip install --upgrade pip
 pip install notebook
 pip install -r requirements.txt
 ```
+
+## Team Members
+
+- Reese Burns
+- Millie Chen
+- Wenli Shi
+- Vishnu Matta
+- Yan Zhong
