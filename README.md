@@ -22,3 +22,5 @@ pip install --upgrade pip
 pip install notebook
 pip install -r requirements.txt
 ```
+
+***4. Read Paper:*** open "Group1_Paper.pdf" read our paper that dives into our modeling, analysis, and conclusion.
