@@ -9,7 +9,7 @@ predict Airbnb prices across major European cities?
 
 ## Analysis Setup Steps
 
-***1. Download ZIP:*** download our "PA-FinalProject-main" repository as a ZIP file
+***1. Download ZIP:*** download our "Predicting-Airbnb-Prices-main" repository as a ZIP file
 
 ***2. Open IPYNB File:*** open "Group1_Analysis.ipynb" in your code editor of choice
 
