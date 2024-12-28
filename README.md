@@ -1,6 +1,11 @@
 # Predictin Airbnb Prices in Europe
 
-Predicting Airbnb Prices Across Major European Cities
+***Context:*** The short-term rental market, led by platforms like Airbnb, has transformed travel and
+real estate investment globally. Accurate pricing predictions have significant value for
+stakeholders aiming to optimize revenue and identify profitable properties. 
+
+***Research Question:*** Based on features like room type, location, and ratings, can we
+predict Airbnb prices across major European cities?
 
 ## Analysis Setup Steps
 
@@ -9,22 +14,11 @@ Predicting Airbnb Prices Across Major European Cities
 ***2. Open IPYNB File:*** open "Group1_Analysis.ipynb" in your code editor of choice
 
 ***3. Run Commands in Terminal***
-
 ```
-cd Desktop/PA-FinalProject-main
+cd Desktop/Predicting-Airbnb-Prices-main
 python -m venv myenv
 source myenv/bin/activate
 pip install --upgrade pip
 pip install notebook
 pip install -r requirements.txt
 ```
-
-***4. Read Paper:*** open "Group1_Paper.pdf" to access our final paper based on the above analysis notebook.
-
-## Team Members
-
-- Reese Burns
-- Millie Chen
-- Wenli Shi
-- Vishnu Matta
-- Yan Zhong
