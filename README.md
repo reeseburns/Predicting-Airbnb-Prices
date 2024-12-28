@@ -1,6 +1,6 @@
-# PA Group 1 - Final Project
+# Predictin Airbnb Prices in Europe
 
-**Predicting Airbnb Prices Across Major European Cities**
+Predicting Airbnb Prices Across Major European Cities
 
 ## Analysis Setup Steps
 
