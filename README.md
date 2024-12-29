@@ -1,4 +1,4 @@
-# Predictin Airbnb Prices in Europe
+# Predicting Airbnb Prices in Europe
 
 ***Context:*** The short-term rental market, led by platforms like Airbnb, has transformed travel and
 real estate investment globally. Accurate pricing predictions have significant value for
