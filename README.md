@@ -4,8 +4,9 @@
 real estate investment globally. Accurate pricing predictions have significant value for
 stakeholders aiming to optimize revenue and identify profitable properties. 
 
-***Research Question:*** Based on features like room type, location, and ratings, can we
-predict Airbnb prices across major European cities?
+***Research Question:*** Leveraging predictive analytics, we will explore complex interactions among pricing determinants like room type, location, and ratings to develop robust predictive pricing models for Airbnb's in Europe.
+
+***Actionable Insights:*** These findings will contribute to both research and industry practice by offering actionable insights and strategies for stakeholders in the hospitality industry.
 
 ## Analysis Setup Steps
 
